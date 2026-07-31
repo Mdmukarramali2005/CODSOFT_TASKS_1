@@ -6,7 +6,7 @@ This repository contains all the tasks completed during my Data Analytics Intern
 
 ## 👨‍💻 Intern Details
 
-- Name: Mukarram Ali
+- Name: Md Mukarram Ali
 - Internship: CodSoft Data Analytics Internship
 
 ## 📂 Repository Structure
@@ -27,9 +27,6 @@ This repository contains all the tasks completed during my Data Analytics Intern
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 
 ## 📌 Repository Structure
 
